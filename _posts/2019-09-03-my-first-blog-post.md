@@ -1,3 +1,5 @@
-Title: My First Blog
-Date: 09/02/2019
+---
+title: "My-First-Blog"
+date: 2019-09-02
+---
 This is my first blog post.
